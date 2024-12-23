@@ -50,7 +50,7 @@ function loadAssets(callback) {
     arrow_overlay_image = loadImage('assets/textures/arrow_overlay.png', callback)
     pit_image = loadImage('assets/textures/pit1.png', callback);
     terrain_image = loadImage('assets/textures/bgg1.jpg', callback);
-    cover_image = loadImage('assets/textures/bg.jpg', callback);
+    cover_image = loadImage('assets/textures/bgm.jpg', callback);
     // cover_image = createImg('assets/textures/abc.gif', callback);
     bell_sound = loadSound('assets/sounds/bell.wav', callback);
     victory_sound = loadSound('assets/sounds/victory.wav', callback);
